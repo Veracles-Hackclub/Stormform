@@ -10,3 +10,18 @@ This is my journal of the design and building process of **Stormform**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/286).
 
 
+## 10/7/2025 - Establishing bounds  
+
+First off, I want to establish exactly what I'm getting myself into, so I can design each part with eachother in mind.
+
+My main inspiration is this cyberdeck by *phillip1887*
+![596.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI2LCJwdXIiOiJibG9iX2lkIn19--14710b8c29c11d6933b15ebbcdc93ae2aa79a0e5/596.jpg)
+
+I love the retro feel of the device, and the minimalist port selection is something I could absolutely get behind for this design. 
+
+I also want to implement a full mechanical keyboard, as for my use case I want a comfortable, fast typing method.
+
+As for the ESP-32 Marauder, I'll be copying parts of the original design and simply attaching it to my main CM5 PCB, but for other parts I'll adjust, such as adding stronger antennas and a more robust screen, as well as a direct connection to the cyberdeck via USB for control. I mostly will use this to add some fun functionality, as well as the beforementioned pentesting.
+
+I spent about an hour researching this.  
+
