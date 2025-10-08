@@ -25,3 +25,11 @@ As for the ESP-32 Marauder, I'll be copying parts of the original design and sim
 
 I spent about an hour researching this.  
 
+## 10/8/2025 - Designing the Keyboard  
+
+Since I want a nicer keyboard for this, I'll be designing this first, and building the rest of the design around it. I decided to go for a slightly modified 60% layout with this, adding a function row and leaving 2 keys worth of space for a screen for diagnostics/stats.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--57e03f53bffeabd30386945adba7e525b7b6337d/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--4ee5a2af97ce07b9a6e98c2fb7eafe32850b1fd3/image.png)
+  
+
